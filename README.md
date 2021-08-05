@@ -31,8 +31,8 @@
   - Handoff :white_check_mark:
   - HIDPI (Make use of [one key hidpi](https://github.com/xzhih/one-key-hidpi "") with [instruction](https://github.com/xzhih/one-key-hidpi/issues/138 "")) :white_check_mark:
   - If suddenly the headphones sound does not work after waking up, [click.](https://drive.google.com/file/d/1CZtY2bfnIAD0Rcoczf5b9F2TR8YYlhZc/view?usp=sharing"") :white_check_mark:
-  - Card reader. :bangbang:~~ (Fixed) :ballot_box_with_check:
-  - HDMI :bangbang:~~ (Fixed, like clockwork) :ballot_box_with_check:
+  - Card Reader :ballot_box_with_check:
+  - HDMI :ballot_box_with_check:
 
 
 ## SCEENSHOTS:
