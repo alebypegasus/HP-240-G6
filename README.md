@@ -13,9 +13,8 @@
 |Audio:        |Realtek ALC282 |
 |WebCam:          |Inbuilt  |
 
-# Testado no Big Sur 11.5.1
+## Testado no Big Sur 11.5.1
 
-## What's working:
   - Wi-Fi e Bluetooth :ballot_box_with_check:	
   - Portas USB :white_check_mark:
   - Teclado :white_check_mark:
@@ -30,6 +29,8 @@
   - Controle de CPU e Fan :white_check_mark:
   - Card Reader :ballot_box_with_check:
   - HDMI :ballot_box_with_check:
+
+https://browser.geekbench.com/v5/cpu/9168921
 
 
 ## SCEENSHOTS:
