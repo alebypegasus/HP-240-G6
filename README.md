@@ -9,7 +9,7 @@
 [![macOS Monterey](https://img.shields.io/badge/macOS-12.0_beta-white.svg)](https://www.apple.com/macos/monterey-preview/)
 [![Release](https://img.shields.io/badge/Download-latest-success.svg)](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/releases)
 
-![](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BootPicker.png)
+![](https://www.oficinadanet.com.br/imagens/post/33593/macos-big-sur-system-a.png)
 
 ## Introduction
 
