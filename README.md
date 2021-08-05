@@ -186,6 +186,13 @@ When you're done, reboot. Have a look at the CPU behavior using Intel Power Gadg
 ![image](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BigSur%20Benchmark.png)</br>
 [SEE ALL RESULTS](https://browser.geekbench.com/v5/cpu/5386949)
 
+## Screenshots
+![screenshots](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BigSur%20Benchmark.png)</br>
+![screenshots](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BigSur%20Benchmark.png)</br>
+![screenshots](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BigSur%20Benchmark.png)</br>
+![screenshots](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BigSur%20Benchmark.png)</br>
+![screenshots](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/Pics/BigSur%20Benchmark.png)</br>
+
 ## Credits and Thank yous
 - Acidanthera and Team for the [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg)
 - Dortantia for [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
