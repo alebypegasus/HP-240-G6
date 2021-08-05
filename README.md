@@ -16,13 +16,13 @@
 # Testado no Big Sur 11.5.1
 
 ## What's working:
-  - Wi-Fi/Bluetooth (Broadcom BCM94322) :white_check_mark:
-  - USB Ports, USB-C :white_check_mark:
+  - Wi-Fi/Bluetooth :ballot_box_with_check:	
+  - USB Ports :white_check_mark:
   - Keyboard :white_check_mark:
-  - Trackpad, gestures. :white_check_mark:
+  - Trackpad, Gestures. :white_check_mark:
   - Audio, Headphones :white_check_mark:
-  - Internal graphics with fill acceleration. :white_check_mark:
-  - Control brightness, sound and touchpad via keyboard keys :white_check_mark:
+  - Internal Graphics :white_check_mark:
+  - Control Brightness, Sound and Touchpad via Keyboard :white_check_mark:
   - Sleep :white_check_mark:
   - Sleep and Wake with Lid Open and Close :white_check_mark:
   - Battery Status :white_check_mark:
@@ -31,10 +31,8 @@
   - Handoff :white_check_mark:
   - HIDPI (Make use of [one key hidpi](https://github.com/xzhih/one-key-hidpi "") with [instruction](https://github.com/xzhih/one-key-hidpi/issues/138 "")) :white_check_mark:
   - If suddenly the headphones sound does not work after waking up, [click.](https://drive.google.com/file/d/1CZtY2bfnIAD0Rcoczf5b9F2TR8YYlhZc/view?usp=sharing"") :white_check_mark:
-
-## What's Not Working:
-  - ~~Card reader. :bangbang:~~ (Fixed) :white_check_mark:
-  - ~~HDMI :bangbang:~~ (Fixed, like clockwork) :white_check_mark:
+  - Card reader. :bangbang:~~ (Fixed) :ballot_box_with_check:
+  - HDMI :bangbang:~~ (Fixed, like clockwork) :ballot_box_with_check:
 
 
 ## SCEENSHOTS:
