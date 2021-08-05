@@ -16,21 +16,18 @@
 # Testado no Big Sur 11.5.1
 
 ## What's working:
-  - Wi-Fi/Bluetooth :ballot_box_with_check:	
-  - USB Ports :white_check_mark:
-  - Keyboard :white_check_mark:
+  - Wi-Fi e Bluetooth :ballot_box_with_check:	
+  - Portas USB :white_check_mark:
+  - Teclado :white_check_mark:
   - Trackpad, Gestures. :white_check_mark:
   - Audio, Headphones :white_check_mark:
-  - Internal Graphics :white_check_mark:
-  - Control Brightness, Sound and Touchpad via Keyboard :white_check_mark:
+  - Video Integrado :white_check_mark:
+  - Controle Brightness, Som e Touchpad via Teclado :white_check_mark:
   - Sleep :white_check_mark:
-  - Sleep and Wake with Lid Open and Close :white_check_mark:
-  - Battery Status :white_check_mark:
-  - Inbuilt Camera :white_check_mark:
-  - CPU & Fan Control :white_check_mark:
-  - Handoff :white_check_mark:
-  - HIDPI (Make use of [one key hidpi](https://github.com/xzhih/one-key-hidpi "") with [instruction](https://github.com/xzhih/one-key-hidpi/issues/138 "")) :white_check_mark:
-  - If suddenly the headphones sound does not work after waking up, [click.](https://drive.google.com/file/d/1CZtY2bfnIAD0Rcoczf5b9F2TR8YYlhZc/view?usp=sharing"") :white_check_mark:
+  - Sleep ao Fechar e Abrir a Tampa :white_check_mark:
+  - Status da Bateria :white_check_mark:
+  - Camera :white_check_mark:
+  - Controle de CPU e Fan :white_check_mark:
   - Card Reader :ballot_box_with_check:
   - HDMI :ballot_box_with_check:
 
