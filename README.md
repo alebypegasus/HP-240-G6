@@ -1,15 +1,18 @@
 # HP 240 G6 - Hackintosh OpenCore
 
-
-**STATUS**: Completed 80%.</br>
-
 [![Board](https://img.shields.io/badge/HP-240%20G6-blue)](https://support.hp.com/br-pt/product/hp-240-g6-notebook-pc/15932861)
 [![OpenCore Version](https://img.shields.io/badge/OpenCore-0.7.2-orange)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
-[![macOS Big Sur](https://img.shields.io/badge/macOS-11.5.1-white.svg)](https://www.apple.com/macos/big-sur/)
-[![macOS Monterey](https://img.shields.io/badge/macOS-12.0_beta-white.svg)](https://www.apple.com/macos/monterey-preview/)
-[![Release](https://img.shields.io/badge/Download-latest-success.svg)](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/releases)
+[![macOS Big Sur](https://img.shields.io/badge/MacOS-11.5.1-white.svg)](https://www.apple.com/macos/big-sur/)
+[![macOS Monterey](https://img.shields.io/badge/MacOS-12.0_Beta-white.svg)](https://www.apple.com/macos/monterey-preview/)
+[![Release](https://img.shields.io/badge/Download-Latest-success.svg)](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/releases)
+
+[![Twitch](https://img.shields.io/twitch/status/alebypegasus?style=social)](https://www.twitch.tv/alebypegasus)
+
+[![Twitter](https://img.shields.io/twitter/follow/alebypegasus?style=social)](https://www.twitter.com/alebypegasus)
 
 ![](https://www.oficinadanet.com.br/imagens/post/33593/macos-big-sur-system-a.png)
+
+**STATUS**: Completed 80%.</br>
 
 ## Introduction
 
